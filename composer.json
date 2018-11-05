@@ -3,7 +3,6 @@
     "description": "Dependency Injection, Console and Kernel toolkit for Symplify packages.",
     "license": "MIT",
     "require": {
-        "php": "^7.1",
         "nette/utils": "^2.5",
         "nette/finder": "^2.4",
         "symfony/config": "^3.4|^4.1",
